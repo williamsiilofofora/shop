@@ -1,8 +1,8 @@
 <template>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand">
-    <img width="30" height="30" src="../assets/logo.png" alt=""/>
-    Dyma
+    <img width="30" height="30" src="../assets/logofoncé.png" alt=""/>
+    E-Shop
   </a>
   <button class="navbar-toggler">
     <span class="navbar-toggler-icon"></span>
